@@ -1,3 +1,5 @@
+
+
 # xExtension-AiMarker
 
 一个FreshRSS扩展，使用人工智能(LLM)来智能过滤文章并提供摘要。
@@ -115,6 +117,7 @@
 ```json
 {
   "translated_title": "李开复：中国大模型未来大概率只剩下三家",
+  "keywords": ["李开复", "大模型", "科技预测", "中美对比"],
   "tags": [
     "新闻",
     "AI",
